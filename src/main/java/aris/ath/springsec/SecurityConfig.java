@@ -23,7 +23,7 @@ import org.springframework.security.web.authentication.Http403ForbiddenEntryPoin
 public class SecurityConfig extends WebSecurityConfigurerAdapter
 {
 
-    @Value("${howtodoinjava.http.auth.tokenName}")
+    @Value("${http.auth.tokenName}")
     private String authHeaderName;
 
     @Override
