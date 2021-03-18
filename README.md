@@ -1,6 +1,6 @@
 # forgerock-am-idp-for-springboot
 
-Dummy spring-boot microservice protected from ForgeRock OpenAM.
+Dummy spring-boot microservice protected from ForgeRock OpenAM. 
 
 
 ### Prerequisites
@@ -30,4 +30,4 @@ Add additional notes about how to deploy this on a live system
 
 * [SpringBoot](http://spring.io/projects/spring-boot) - The web framework used
 * [Maven](https://maven.apache.org/) - Dependency Management
-* [Forgerock AM](https://www.forgerock.com/platform/access-management) 
+* [Forgerock AM](https://www.forgerock.com/platform/access-management) - Access Management 
