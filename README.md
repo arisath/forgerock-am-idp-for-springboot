@@ -2,7 +2,7 @@
 
 Dummy spring-boot microservice protected from ForgeRock OpenAM. 
 
-<img src="https://symbols.getvecta.com/stencil_80/91_forgerock-icon.c12b356fba.png" alt="Forgerock AM Logo" title="Forgerock AM Logo"   height="60" width="60"/><img src="https://firststepitsolution.com/wp-content/uploads/2020/04/spring-boot-icon.png" alt="Spring Boot Logo" title="Spring Boot Logo" height="160" width="160"/>
+<img src="https://i.pinimg.com/originals/41/a2/c1/41a2c1edf936a7c784383d48ce709676.png" alt="Forgerock AM Logo" title="Forgerock AM Logo"   height="60" width="60"/><img src="https://firststepitsolution.com/wp-content/uploads/2020/04/spring-boot-icon.png" alt="Spring Boot Logo" title="Spring Boot Logo" height="160" width="160"/>
 
 ### Prerequisites
 
