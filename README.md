@@ -1,8 +1,9 @@
 # forgerock-am-idp-for-springboot
 
 Dummy spring-boot microservice protected from ForgeRock OpenAM. 
+<img src="https://symbols.getvecta.com/stencil_80/91_forgerock-icon.c12b356fba.png" alt="Forgerock AM Logo" title="Forgerock AM Logo"  align="right" height="70" width="70"/>
+
 <img src="https://firststepitsolution.com/wp-content/uploads/2020/04/spring-boot-icon.png" alt="Spring Boot Logo" title="Spring Boot Logo" align="right" height="140" width="140"/>
-<img src="https://symbols.getvecta.com/stencil_80/91_forgerock-icon.c12b356fba.png" alt="Forgerock AM Logo" title="Forgerock AM Logo" height="70" width="70"/>
 ### Prerequisites
 
 Maven
